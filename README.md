@@ -1,1 +1,1 @@
-# burger - A Node Express Handlebars Application
+# Eat da Burger - A Node.js, Express.js and  Handlebars.js Application
