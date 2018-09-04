@@ -1,3 +1,10 @@
 INSERT INTO burgers (burger_name, devoured) VALUES ('Double Cheeseburger', false);
 INSERT INTO burgers (burger_name, devoured) VALUES ('Turkey Burger', false);
-INSERT INTO burgers (burger_name, devoured) VALUES ('Hamburger', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Hamburger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Double Double Cheeseburger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Chicken Filet Burger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Hamburger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Triple Cheeseburger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Spicy Chicken Filet Burger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Double Hamburger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Tofu Hamburger', false);

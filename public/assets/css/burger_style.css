@@ -1,20 +1,72 @@
+body {
+  width: 960px;
+  margin: auto;
+  background: black;
+  }
+
+h1 {
+  text-align: center;
+  color:rgb(207, 250, 121);
+}
+
+h2 {
+  text-align: center;
+  color: rgb(207, 250, 121);
+}
+
+h3 {
+  text-align: center;
+  color: rgb(207, 250, 121);
+}
+
+img {
+  width: 510px;
+  height: 612px;
+}
+
 li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
+    padding: 1px;
+    margin: 1px;
+    background: rgb(207, 250, 121);
   }
   
-  .label {
-    font-weight: bold;
+ol {
+  background: rgb(207, 250, 121);
+  }  
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  background-color: black;
   }
-  
-  .create-update-form {
-    padding: 5px;
-    margin: 5px;
-    background: aqua;
+
+.flex-container > div {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
   }
-  
-  .form-group {
-    margin-bottom: 5px;
+
+.label {
+  font-weight: bold;
   }
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+  }
+
+.form-group {
+  margin-bottom: 5px;
+  }
+
+.addBurger {
+  padding: 5px;
+  margin: 5px;
+  text-align: center;
+  }
+
+.eatBurger {
+  width: 220px;
+}
   
