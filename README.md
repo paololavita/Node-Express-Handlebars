@@ -2,7 +2,7 @@
 
 A simple and fun Web Application that utilizes the above Node.js, Express.js, and Handlebars to render the pages and with a MySQL Database to store the various data.
 
-To see it deployed click here:
+To see it deployed click here: https://eat-da-burger-plv.herokuapp.com
 
 Description:
 
