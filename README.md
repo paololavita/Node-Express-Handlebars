@@ -4,6 +4,8 @@ A simple and fun Web Application that utilizes the above Node.js, Express.js, an
 
 To see it deployed click here: https://eat-da-burger-plv.herokuapp.com
 
+![Screenshot](eat-da-burger-plv-herokuapp.png)
+
 Description:
 
 Users are presented with a list of Hanburgers that are stored in a MySQL Database.
