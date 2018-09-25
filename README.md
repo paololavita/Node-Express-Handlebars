@@ -10,7 +10,7 @@ Description:
 
 Users are presented with a list of Hanburgers that are stored in a MySQL Database.
 
-A user also has the ability to add burgers of their own. Submit Button with update the firts column of burgers a
+A user also has the ability to add burgers of their own. Submit Button will update the first column of burgers a
 that are 'to be devoured'.
 
 Once a user clicks the devour button then the database is upadte along with a page refresh. The 'eaten' burgers will appear on the left.
