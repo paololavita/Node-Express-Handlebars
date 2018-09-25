@@ -1,6 +1,6 @@
 # Eat da Burger - A Node.js, Express.js and  Handlebars.js Application
 
-A simple and fun Web Application that utilizes the above Node.js, Express.js, and Handlebars to render the pages and a MySql Database to store the responses.
+A simple and fun Web Application that utilizes the above Node.js, Express.js, and Handlebars to render the pages and with a MySQL Database to store the various data.
 
 To see it deployed click here:
 
