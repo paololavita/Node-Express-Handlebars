@@ -41,6 +41,9 @@ MySQL - Please create a local instatnce of MySQL
 
 From the data folder in the repository you will see the folowing two files:
 
+seeds.sql
+
+
 
 
 
