@@ -8,7 +8,7 @@ To see it deployed click here: https://eat-da-burger-plv.herokuapp.com
 
 Description:
 
-Users are presented with a list of Hanburgers that are stored in a MySQL Database.
+Users are presented with a list of Hamburgers that are stored using a MySQL Database.
 
 A user also has the ability to add burgers of their own. Submit Button will update the first column of burgers a
 that are 'to be devoured'.
@@ -18,5 +18,15 @@ Once a user clicks the devour button then the database is upadte along with a pa
 User can also set the status of the burger back from "Eaten' to "To be Devoured".
 
 Application was not created to solve any particular problem but was a fun way to begin to code with Express.js performing the back end routing. 
+
+Technologies Used: 
+
+HTML
+CSS
+Javascript
+Express
+Node
+MySQl
+
 
 
