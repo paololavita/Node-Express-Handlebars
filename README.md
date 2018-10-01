@@ -26,6 +26,7 @@ CSS
 Javascript
 Express
 Node
+Handlebars
 MySQl
 
 
