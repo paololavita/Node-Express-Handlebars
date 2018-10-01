@@ -1,6 +1,6 @@
 # Eat da Burger - A Node.js, Express.js and  Handlebars.js Application
 
-A simple and fun Web Application that utilizes the above Node.js, Express.js, and Handlebars to render the pages and with a MySQL Database to store the various data.
+A simple and fun Web Application built with Node.js, Express.js, and Handlebars to render the pages and with a MySQL Database to store the various data.
 
 To see it deployed click here: https://eat-da-burger-plv.herokuapp.com
 
@@ -28,6 +28,20 @@ Express
 Node
 Handlebars
 MySQl
+
+Deployment Instructions:
+
+To deploy please clone this repository to your local directory.
+
+Once downloaded change your dirrectory Node-Express-Handlebars (cd Node-Express-Handlebars)
+
+Run npm-install
+
+MySQL - Please create a local instatnce of MySQL
+
+From the data folder in the repository you will see the folowing two files:
+
+
 
 
 
