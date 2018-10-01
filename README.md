@@ -42,6 +42,15 @@ MySQL - Please create a local instatnce of MySQL
 From the data folder in the repository you will see the folowing two files:
 
 seeds.sql
+schema.sql
+
+Run schema.sql in your own MySQL Client (i.e. MySQLWorkbenvh) to craet the database and then you can use seed.sql to 'seed' with some default data (or you can use your own).
+
+With MySQL running type npm start in your Node-Express-Handlebars directory and enjoy.
+
+If you have any questions or issues please feel free to contact me:
+
+PaoloLaVita@outlook.com
 
 
 
